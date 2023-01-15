@@ -45,17 +45,23 @@ List of keys and key codes for FPT Play box from 2018 to 2022.
 - Rogo [[5]](#rogo%20key)
 - Shop
 
-### Function key ![function-key](./images/function-key.png =20x20)
+### Function key
+Function key <img alt="" src="./images/function-key.png" style="width:25px"><br>
 Has been removed from 2022 version.
 
-### Channel up key ![channel-up-key](./images/channel-up-key.png =20x20)
+### Channel up key
+Channel up key <img alt="" src="./images/channel-up-key.png" style="width:25px"><br>
 Has been removed from 2022 version.
 
-### Channel down key ![channel-down-key](./images/channel-down-key.png =20x20)
+### Channel down key
+Channel down key <img alt="" src="./images/channel-down-key.png" style="width:25px"><br>
 Has been removed from 2022 version.
 
-### App key ![app-key](./images/app-key.png =20x20)
+### App key
+App key <img alt="" src="./images/app-key.png" style="width:25px"><br>
 Has been removed from 2022 version.
 
-### Rogo key ![rogo-key](./images/rogo-key.png =20x20) ![life-key](./images/life-key.png =20x20)
+### Rogo key
+Rogo key <img alt="" src="./images/rogo-key.png" style="width:25px"><br>
+Life key <img alt="" src="./images/life-key.png" style="width:25px"><br>
 Has been renamed to ***Life*** from 2022 version.
