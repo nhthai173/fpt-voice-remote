@@ -15,7 +15,7 @@ List of keys and key codes for FPT Play box from 2018 to 2022.
 - FPT Play Box S650 (2022)
 
 ## Keys
-- Function [[1]](#function%20key)
+- Function [[1]](#function-key)
 - Number 0
 - Number 1
 - Number 2
@@ -29,8 +29,8 @@ List of keys and key codes for FPT Play box from 2018 to 2022.
 - OK
 - Back
 - Home
-- Channel up [[2]](#channel%20up%20key)
-- Channel down [[3]](#channel%20down%20key)
+- Channel up [[2]](#channel-up-key)
+- Channel down [[3]](#channel-down-key)
 - Volume up
 - Volume down
 - Mute
@@ -40,9 +40,9 @@ List of keys and key codes for FPT Play box from 2018 to 2022.
 - Left
 - Right
 - Backspace
-- App [[4]](#app%20key)
+- App [[4]](#app-key)
 - Assistant
-- Rogo [[5]](#rogo%20key)
+- Rogo [[5]](#rogo-key)
 - Shop
 
 ### Function key
